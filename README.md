@@ -1,16 +1,4 @@
-# budget_planner
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Brief Description
+Keeping track of our expenses and managing our finances effectively is essential for achieving financial stability and reaching our financial goals. 
+This Budget Planner App is designed to simplify the process of expense tracking and provide users with a convenient tool to calculate their total expenses effortlessly.
+With this app, users can easily add their expenses and calculate the total amount spent within a specified period.
